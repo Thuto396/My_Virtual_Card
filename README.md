@@ -7,6 +7,7 @@ This virtual card serves as a digital representation of the candidate, offering 
 * styles.css: Provides CSS styles for the visual presentation of the virtual card.
 # How to use:
 To utilize the virtual card:
+[https://thuto-malesa-virtual-card.netlify.app/]
 1. Clone or download the repository to your local machine.
 2. Open the "index.html" file in any web browser.
 3. Explore the virtual card to view the candidate's summary and access their resume.
